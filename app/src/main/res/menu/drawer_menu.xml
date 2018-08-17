@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_notes"
+            android:icon="@drawable/ic_chrome_reader_mode_black_24dp"
+            android:title="Notes" />
+        <item
+            android:id="@+id/nav_attend"
+            android:icon="@drawable/ic_person_black_24dp"
+            android:title="Attendence" />
+        <item
+            android:id="@+id/nav_budget"
+            android:icon="@drawable/ic_budget"
+            android:title="Budget Planner" />
+        <item
+            android:id="@+id/nav_signout"
+            android:icon="@drawable/ic_signout"
+            android:title="Sign Out" />
+
+    </group>
+
+    <item android:title="About us">
+        <menu>
+            <item
+                android:id="@+id/nav_aboutus"
+                android:icon="@drawable/ic_info"
+                android:title="About us" />
+        </menu>
+    </item>
+
+</menu>

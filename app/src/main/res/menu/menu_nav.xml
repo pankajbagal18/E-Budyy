@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Home"
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+
+       />
+    <item
+        android:title="Dashboard"
+        android:id="@+id/nav_dashboard"
+        android:icon="@drawable/ic_chrome_reader_mode_black_24dp"
+
+        />
+
+    <item
+        android:id="@+id/nav_mycollection"
+        android:title="M C"
+        android:icon="@drawable/ic_collections_black_24dp"
+        />
+
+    <item
+        android:id="@+id/nav_notification"
+        android:title="Notifications"
+        android:icon="@drawable/ic_notification"
+        />
+
+    <item
+        android:title="Profile"
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/ic_person_black_24dp"
+        />
+
+</menu>

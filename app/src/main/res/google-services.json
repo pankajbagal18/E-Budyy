@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "467826117333",
+    "firebase_url": "https://engineering-buddy.firebaseio.com",
+    "project_id": "engineering-buddy",
+    "storage_bucket": "engineering-buddy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467826117333:android:22c99ab100199844",
+        "android_client_info": {
+          "package_name": "com.example.shubham.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467826117333-ck3i5ir3kjj7ok00p50u7khr5m7gk5ov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASysw6uuWxjlOU7sAIQG_-uyRHo-nTXlI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
